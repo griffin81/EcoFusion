@@ -15,7 +15,7 @@ Additionally, EcoFusion includes an integrated marketplace where artisans and sm
 ## Tech Stack:
 - **Frontend**: Kotlin, XML
 - **AI**: TensorFlow
-- **Database**: (Your choice of database)
+- **Database**: NIL
 - **Payment Integration**: Razorpay (Future Implementation)
 
 ## Getting Started
@@ -28,4 +28,4 @@ To run this project locally:
 4. Run the app.
 
 ## Authors:
-- **[Your Name]** – Founder & Creator
+-Jayadhev Gopalakrishnan – Founder & Creator
